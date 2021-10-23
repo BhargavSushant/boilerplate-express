@@ -1,4 +1,5 @@
-{
+{	"author":"Sushant",
+	"description": "A boilerplate for practice nodejs",
 	"name": "fcc-learn-node-with-express",
 	"version": "0.1.0",
 	"dependencies": {
